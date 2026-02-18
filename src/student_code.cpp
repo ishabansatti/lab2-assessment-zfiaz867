@@ -10,7 +10,8 @@ int getIntValue() {
 float getFloatValue() {
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
-    int float=1.5;
+    float var_float=10.75;
+    return var_float;
 }
 
 char getCharValue() {
