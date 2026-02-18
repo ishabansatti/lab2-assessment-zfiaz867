@@ -21,7 +21,7 @@ char getCharValue() {
     return var_char;
 }
 
-/*int convertFloatToInt(float value) {
+int convertFloatToInt(float value) {
     // convert value to int.
     return value;
 }
